@@ -1,0 +1,9 @@
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\bin\Debug\WireFrame3DPictureBox.exe
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\bin\Debug\WireFrame3DPictureBox.pdb
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\WireFrame3DPictureBox.Form1.resources
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\WireFrame3DPictureBox.Properties.Resources.resources
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\WireFrame3DPictureBox.exe
+C:\Users\s\documents\visual studio 2010\Projects\WireFrame3DPictureBox\WireFrame3DPictureBox\obj\x86\Debug\WireFrame3DPictureBox.pdb
